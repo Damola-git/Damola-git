@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on ... anything exciting
 - 📫 How to reach me ... damoladavidadejumo@gmail.com
 - ⚡ Fun fact: ...I have a crush on C++ 
+### My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@Damola-git&layout=compact)
 
 <!---
 Damola-git/Damola-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
