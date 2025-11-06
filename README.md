@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adedamola
  _________________________________________
-  A software engineer with a passion for learning and personal development, my areas of strength includes Frontend development and APIs consumption for scalable projects and applications.
+  A software engineer with a passion for learning and personal development, my areas of strength includes Frontend Mobile and web development and APIs consumption for scalable projects and applications.
 - 🌱 I’m currently learning ... Data structures and Algorithms
 - 💞️ I’m looking to collaborate on ... anything exciting
 - 📫 How to reach me ... damoladavidadejumo@gmail.com
